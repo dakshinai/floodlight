@@ -101,7 +101,6 @@ public class TopologyManagerBellmanFord implements IFloodlightModule,
 	 * Role of the controller.
 	 */
 	private Role role;
-
 	/**
 	 * Set of ports for each switch
 	 */
